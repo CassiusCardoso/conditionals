@@ -12,3 +12,4 @@ C:\Users\55219\source\repos\condicionais\condicionais\obj\Debug\net8.0\refint\co
 C:\Users\55219\source\repos\condicionais\condicionais\obj\Debug\net8.0\condicionais.pdb
 C:\Users\55219\source\repos\condicionais\condicionais\obj\Debug\net8.0\condicionais.genruntimeconfig.cache
 C:\Users\55219\source\repos\condicionais\condicionais\obj\Debug\net8.0\ref\condicionais.dll
+C:\Users\55219\source\repos\condicionais\condicionais\obj\Debug\net8.0\condicionais.sourcelink.json
